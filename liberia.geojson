@@ -1,0 +1,3333 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-07-21T04:41:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/94957267",
+      "properties": {
+        "@id": "way/94957267",
+        "alt_name": "JFK Hospital",
+        "alt_name2": "Kennedy Memorial Hospital",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "gns:ufi": "-2132961",
+        "name": "John F. Kennedy Memorial Medical Center",
+        "short_name": "J.F.Kennedy Hospital"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -10.7754137,
+              6.2866853
+            ],
+            [
+              -10.7747335,
+              6.2863267
+            ],
+            [
+              -10.7731154,
+              6.2862141
+            ],
+            [
+              -10.773136,
+              6.2859784
+            ],
+            [
+              -10.7718999,
+              6.2859495
+            ],
+            [
+              -10.7719307,
+              6.2853196
+            ],
+            [
+              -10.7716176,
+              6.2851923
+            ],
+            [
+              -10.77108,
+              6.2865255
+            ],
+            [
+              -10.7721504,
+              6.2869683
+            ],
+            [
+              -10.7719924,
+              6.2873816
+            ],
+            [
+              -10.7724509,
+              6.2875712
+            ],
+            [
+              -10.7720419,
+              6.2886858
+            ],
+            [
+              -10.7724146,
+              6.2888464
+            ],
+            [
+              -10.7724871,
+              6.288971
+            ],
+            [
+              -10.7725285,
+              6.2889865
+            ],
+            [
+              -10.7732589,
+              6.2892595
+            ],
+            [
+              -10.7737668,
+              6.2880466
+            ],
+            [
+              -10.774743,
+              6.288394
+            ],
+            [
+              -10.7754137,
+              6.2866853
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/142061458",
+      "properties": {
+        "@id": "way/142061458",
+        "amenity": "hospital",
+        "name": "SDA Cooper Hospital"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -10.7817468,
+              6.2966086
+            ],
+            [
+              -10.7820267,
+              6.2958702
+            ],
+            [
+              -10.7811507,
+              6.295522
+            ],
+            [
+              -10.7801134,
+              6.2982595
+            ],
+            [
+              -10.7804689,
+              6.2983966
+            ],
+            [
+              -10.7805359,
+              6.2984229
+            ],
+            [
+              -10.7817274,
+              6.2988766
+            ],
+            [
+              -10.7817395,
+              6.2978111
+            ],
+            [
+              -10.781855,
+              6.2973719
+            ],
+            [
+              -10.7820538,
+              6.2967485
+            ],
+            [
+              -10.7817468,
+              6.2966086
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160988963",
+      "properties": {
+        "@id": "way/160988963",
+        "amenity": "clinic",
+        "building": "yes",
+        "name": "Star of the Sea Health Center"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -10.804204,
+              6.3285946
+            ],
+            [
+              -10.804243,
+              6.3284563
+            ],
+            [
+              -10.8043754,
+              6.3284932
+            ],
+            [
+              -10.8044196,
+              6.3283364
+            ],
+            [
+              -10.804401,
+              6.3283313
+            ],
+            [
+              -10.8044221,
+              6.3282565
+            ],
+            [
+              -10.8041924,
+              6.3281924
+            ],
+            [
+              -10.8041736,
+              6.3282589
+            ],
+            [
+              -10.8040668,
+              6.3282291
+            ],
+            [
+              -10.804031,
+              6.3283561
+            ],
+            [
+              -10.8041208,
+              6.3283812
+            ],
+            [
+              -10.804071,
+              6.3285575
+            ],
+            [
+              -10.804204,
+              6.3285946
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/161044008",
+      "properties": {
+        "@id": "way/161044008",
+        "addr:housenumber": "406-B-001",
+        "amenity": "clinic",
+        "building": "yes",
+        "name": "West Point Health and Sanitation Organization"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -10.8052497,
+              6.3276587
+            ],
+            [
+              -10.8053414,
+              6.3277131
+            ],
+            [
+              -10.805405,
+              6.3276073
+            ],
+            [
+              -10.805299,
+              6.3275766
+            ],
+            [
+              -10.8052497,
+              6.3276587
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/272471726",
+      "properties": {
+        "@id": "way/272471726",
+        "amenity": "hospital",
+        "fixme": "Please confirm.",
+        "name": "G. W. Harley Hospital",
+        "operator": "IRC",
+        "source": "Wikipedia"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.7190098,
+              7.3521525
+            ],
+            [
+              -8.7186046,
+              7.3516667
+            ],
+            [
+              -8.7179271,
+              7.351866
+            ],
+            [
+              -8.7170819,
+              7.3522267
+            ],
+            [
+              -8.7169739,
+              7.3519829
+            ],
+            [
+              -8.7166252,
+              7.3519879
+            ],
+            [
+              -8.7163961,
+              7.3520488
+            ],
+            [
+              -8.7162416,
+              7.352146
+            ],
+            [
+              -8.7158066,
+              7.352696
+            ],
+            [
+              -8.7156647,
+              7.3529491
+            ],
+            [
+              -8.7158326,
+              7.3534825
+            ],
+            [
+              -8.7159606,
+              7.3535535
+            ],
+            [
+              -8.7162175,
+              7.3533644
+            ],
+            [
+              -8.7164283,
+              7.3532985
+            ],
+            [
+              -8.7167804,
+              7.3530745
+            ],
+            [
+              -8.7172902,
+              7.3529444
+            ],
+            [
+              -8.7179805,
+              7.3526439
+            ],
+            [
+              -8.7180615,
+              7.3528292
+            ],
+            [
+              -8.718348,
+              7.3527106
+            ],
+            [
+              -8.7182737,
+              7.3525163
+            ],
+            [
+              -8.7189059,
+              7.3522412
+            ],
+            [
+              -8.7190098,
+              7.3521525
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/289570951",
+      "properties": {
+        "@id": "way/289570951",
+        "amenity": "hospital"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.7305418,
+              7.029554
+            ],
+            [
+              -8.7303615,
+              7.0293064
+            ],
+            [
+              -8.7303153,
+              7.029233
+            ],
+            [
+              -8.7297823,
+              7.0295342
+            ],
+            [
+              -8.730303,
+              7.0297115
+            ],
+            [
+              -8.7305418,
+              7.029554
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/295843164",
+      "properties": {
+        "@id": "way/295843164",
+        "amenity": "hospital",
+        "building": "yes",
+        "name": "St. Joseph's Catholic Hospital",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -10.7552913,
+              6.2737761
+            ],
+            [
+              -10.7554682,
+              6.2735679
+            ],
+            [
+              -10.7553965,
+              6.2735077
+            ],
+            [
+              -10.7553621,
+              6.2735483
+            ],
+            [
+              -10.7553144,
+              6.2735082
+            ],
+            [
+              -10.7553472,
+              6.2734696
+            ],
+            [
+              -10.7551173,
+              6.2732767
+            ],
+            [
+              -10.755146,
+              6.273243
+            ],
+            [
+              -10.7550799,
+              6.2731876
+            ],
+            [
+              -10.7550513,
+              6.2732213
+            ],
+            [
+              -10.7548164,
+              6.2730242
+            ],
+            [
+              -10.7547028,
+              6.2731579
+            ],
+            [
+              -10.7547879,
+              6.2732293
+            ],
+            [
+              -10.7547263,
+              6.2733019
+            ],
+            [
+              -10.7552913,
+              6.2737761
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/300382175",
+      "properties": {
+        "@id": "way/300382175",
+        "amenity": "hospital",
+        "name": "UN Chinese Hospital and UNMIL Base"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.1376508,
+              6.0688059
+            ],
+            [
+              -8.1379003,
+              6.0681091
+            ],
+            [
+              -8.1382595,
+              6.0672486
+            ],
+            [
+              -8.1369659,
+              6.0669107
+            ],
+            [
+              -8.1362062,
+              6.0683439
+            ],
+            [
+              -8.1362716,
+              6.0683592
+            ],
+            [
+              -8.1376508,
+              6.0688059
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/300382201",
+      "properties": {
+        "@id": "way/300382201",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Martha Tubman Hospital"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.125387,
+              6.0783524
+            ],
+            [
+              -8.1253963,
+              6.0775027
+            ],
+            [
+              -8.1248263,
+              6.0775496
+            ],
+            [
+              -8.123938,
+              6.0776597
+            ],
+            [
+              -8.124356,
+              6.0787773
+            ],
+            [
+              -8.125387,
+              6.0783524
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/305491804",
+      "properties": {
+        "@id": "way/305491804",
+        "amenity": "hospital",
+        "building": "yes",
+        "name": "SOS Hospital"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -10.7494914,
+              6.2756452
+            ],
+            [
+              -10.7495773,
+              6.2753815
+            ],
+            [
+              -10.7494296,
+              6.275334
+            ],
+            [
+              -10.7493437,
+              6.2755977
+            ],
+            [
+              -10.7494914,
+              6.2756452
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/366860877",
+      "properties": {
+        "@id": "way/366860877",
+        "addr:city": "Monrovia",
+        "addr:street": "Hotel africa Road",
+        "amenity": "hospital",
+        "name": "Faith Clinic",
+        "operator": "Private Clinic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -10.790368,
+              6.4029651
+            ],
+            [
+              -10.790207,
+              6.4031037
+            ],
+            [
+              -10.7904109,
+              6.4032743
+            ],
+            [
+              -10.7905718,
+              6.403125
+            ],
+            [
+              -10.790368,
+              6.4029651
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2539349267",
+      "properties": {
+        "@id": "node/2539349267",
+        "amenity": "hospital",
+        "name": "Chinese Hospital / UNMIL HQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1374882,
+          6.0672992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2539349282",
+      "properties": {
+        "@id": "node/2539349282",
+        "amenity": "hospital",
+        "name": "Martha Tubman Memorial (MTM) Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1247439,
+          6.0778995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2755607675",
+      "properties": {
+        "@id": "node/2755607675",
+        "amenity": "hospital",
+        "gns:ufi": "-2131517",
+        "name": "Firestone Medical Center",
+        "source": "GNS;Personal knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.4694925,
+          6.3531195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2996153466",
+      "properties": {
+        "@id": "node/2996153466",
+        "amenity": "clinic",
+        "fixme": "Location approximate",
+        "gns:ufi": "-2130184",
+        "name": "Bendu Central Clinic",
+        "source": "GNS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.2122371,
+          6.761355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2996153468",
+      "properties": {
+        "@id": "node/2996153468",
+        "amenity": "hospital",
+        "fixme": "Location approximate",
+        "gns:ufi": "-2130833",
+        "name": "Catherine Mills Hospital",
+        "source": "GNS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.666667,
+          6.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2996153469",
+      "properties": {
+        "@id": "node/2996153469",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "gns:ufi": "-2131427",
+        "name": "Eternal Love Winning Africa Hospital",
+        "source": "GNS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.6965137,
+          6.2393809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2996153471",
+      "properties": {
+        "@id": "node/2996153471",
+        "amenity": "hospital",
+        "gns:ufi": "-2133821",
+        "name": "Masating Leper Colony",
+        "place": "locality",
+        "short_name": "Masating",
+        "source": "GNS",
+        "unocha:pcode": "LBR12040000188"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.9943934,
+          6.9306311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3003566637",
+      "properties": {
+        "@id": "node/3003566637",
+        "amenity": "hospital",
+        "name": "Redemption Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.7919744,
+          6.3697076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3012039190",
+      "properties": {
+        "@id": "node/3012039190",
+        "amenity": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.3570187,
+          6.8073055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3015635364",
+      "properties": {
+        "@id": "node/3015635364",
+        "amenity": "clinic",
+        "name": "Sinje Health Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.1390464,
+          6.8230329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3040191771",
+      "properties": {
+        "@id": "node/3040191771",
+        "amenity": "hospital",
+        "name": "Duport Road Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.6902303,
+          6.2755146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3040192808",
+      "properties": {
+        "@id": "node/3040192808",
+        "amenity": "hospital",
+        "name": "Benson Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.6900157,
+          6.2834063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3066992692",
+      "properties": {
+        "@id": "node/3066992692",
+        "alt_name": "Amagashie Clinic",
+        "alt_name:2": "Island Hospital",
+        "amenity": "hospital",
+        "name": "Island Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.7871135,
+          6.3843716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3106601787",
+      "properties": {
+        "@id": "node/3106601787",
+        "accuracy": "British Red Cross - GPS",
+        "alt_name": "ELWA3 Hospital",
+        "amenity": "hospital",
+        "capacity:beds": "250",
+        "capacity:beds:planned": "250",
+        "check_date": "2014-11-17T00:00:00",
+        "disease:ebola": "yes",
+        "health_facility:id": "ETU_LBR_019",
+        "health_facility:type": "field_hospital",
+        "is_in": "Wamba Town",
+        "is_in:county": "Montserrado",
+        "is_in:district": "Greater Monrovia",
+        "name": "ELWA-3 Hospital",
+        "note": "Type1 = ETC; Type2 = Triage; Plans to expand to 300 beds by 2nd September. An estimated 200 to 400 personnel are required to run the facility, the largest Ebola Treatment Unit",
+        "operational_status": "open",
+        "operator": "MSF",
+        "source": "BRC;UNMEER;https://data.hdx.rwlabs.org/dataset/ebola-treatment-centers;http://www.doctorswithoutborders.org/news-stories/field-news/liberia-msfs-new-ebola-management-centers-already-overwhelmed; WHO Foreign Medical Teams International Response; WHO data",
+        "source:location": "MapAction; UAV video (http://youtu.be/4jakGYoR-Jk)",
+        "start_date": "2014-08-17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.7005686,
+          6.2446579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3106631771",
+      "properties": {
+        "@id": "node/3106631771",
+        "accuracy": "British Red Cross - GPS",
+        "amenity": "hospital",
+        "capacity:beds": "10",
+        "capacity:beds:planned": "100",
+        "check_date": "2014-11-17T00:00:00",
+        "disease:ebola": "yes",
+        "health_facility:id": "ETU_LBR_016",
+        "health_facility:type": "field_hospital",
+        "is_in": "Monrovia",
+        "is_in:county": "Montserrado",
+        "is_in:district": "Greater Monrovia",
+        "name": "MoD ETU",
+        "note": "Type1 = ETC ; Opened on 2014-10-31",
+        "operational_status": "open",
+        "operator": "N/A",
+        "source": "https://twitter.com/Moro_Cedric/status/528322705461112832; BRC; http://reliefweb.int/sites/reliefweb.int/files/resources/MA002_T01C01P01_Monrovia-300dpi.pdf.pdf; UNMEER ; https://data.hdx.rwlabs.org/dataset/ebola-treatment-centers",
+        "source:location": "MapAction",
+        "start_date": "2014-10-31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.7344058,
+          6.2700317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3137241067",
+      "properties": {
+        "@id": "node/3137241067",
+        "amenity": "hospital",
+        "name": "Phebe Hospital",
+        "source": "UNMIL;GNS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5532711,
+          7.0279069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3152793235",
+      "properties": {
+        "@id": "node/3152793235",
+        "accuracy": "British Red Cross - GPS",
+        "amenity": "hospital",
+        "capacity:beds": "27",
+        "capacity:beds:planned": "27",
+        "check_date": "2014-11-17T00:00:00",
+        "disease:ebola": "yes",
+        "health_facility:id": "ETU_LBR_027",
+        "health_facility:type": "field_hospital",
+        "is_in": "Tubmanburg",
+        "is_in:county": "Bomi",
+        "is_in:district": "Senjeh",
+        "name": "Bomi (Tubmanburg) ETU",
+        "operational_status": "open",
+        "operator": "BOMI CHT",
+        "source": "UNMEER ; https://data.hdx.rwlabs.org/dataset/ebola-treatment-centers",
+        "start_date": "2014-11-16T00:00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.831,
+          6.867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3198032299",
+      "properties": {
+        "@id": "node/3198032299",
+        "accuracy": "British Red Cross - GPS",
+        "amenity": "hospital",
+        "capacity:beds": "52",
+        "capacity:beds:planned": "70",
+        "check_date": "2014-11-17T00:00:00",
+        "disease:ebola": "yes",
+        "health_facility:id": "ETU_LBR_009",
+        "health_facility:type": "field_hospital",
+        "is_in": "Gbarnga",
+        "is_in:county": "Bong",
+        "is_in:district": "Jorquelleh",
+        "name": "Bong (Suakoko) ETU",
+        "note": "Validate Name",
+        "operational_status": "open",
+        "operator": "IMC",
+        "source": "UNMEER ; https://data.hdx.rwlabs.org/dataset/ebola-treatment-centers",
+        "start_date": "2014-11-16T00:00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.555,
+          7.005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3198032310",
+      "properties": {
+        "@id": "node/3198032310",
+        "accuracy": "British Red Cross - GPS",
+        "amenity": "hospital",
+        "capacity:beds": "40",
+        "capacity:beds:planned": "140",
+        "check_date": "2014-11-17T00:00:00",
+        "disease:ebola": "yes",
+        "health_facility:id": "ETU_LBR_007",
+        "health_facility:type": "field_hospital",
+        "is_in": "Foya",
+        "is_in:county": "Lofa",
+        "is_in:district": "Foya",
+        "name": "Lofa (Foya) ETU",
+        "operational_status": "open",
+        "operator": "MSF",
+        "source": "UNMEER ; https://data.hdx.rwlabs.org/dataset/ebola-treatment-centers",
+        "start_date": "2014-11-16T00:00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.206,
+          8.379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3198032311",
+      "properties": {
+        "@id": "node/3198032311",
+        "accuracy": "British Red Cross - GPS",
+        "amenity": "hospital",
+        "capacity:beds": "31",
+        "capacity:beds:planned": "31",
+        "check_date": "2014-11-17T00:00:00",
+        "disease:ebola": "yes",
+        "health_facility:id": "ETU_LBR_005",
+        "health_facility:type": "field_hospital",
+        "is_in": "Harbel City",
+        "is_in:county": "Margibi",
+        "is_in:district": "Firestone",
+        "name": "Margibi (Firestone) ETU",
+        "operational_status": "open",
+        "operator": "Firestone",
+        "source": "UNMEER ; https://data.hdx.rwlabs.org/dataset/ebola-treatment-centers",
+        "start_date": "2014-11-16T00:00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.47,
+          6.353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3198032313",
+      "properties": {
+        "@id": "node/3198032313",
+        "accuracy": "Needs Validation",
+        "amenity": "hospital",
+        "capacity:beds": "25",
+        "capacity:beds:planned": "25",
+        "check_date": "2014-11-16T00:00:00",
+        "disease:ebola": "yes",
+        "health_facility:id": "ETU_LBR_015",
+        "health_facility:type": "field_hospital",
+        "is_in": "Monrovia",
+        "is_in:county": "Montserrado",
+        "is_in:district": "Greater Monrovia",
+        "name": "Monrovia Medical Unit ETU",
+        "note": "Was listed as 'Monrovia', needs verification",
+        "operational_status": "open",
+        "operator": "USPHS",
+        "source": "UNMEER ; https://data.hdx.rwlabs.org/dataset/ebola-treatment-centers",
+        "start_date": "2014-11-16T00:00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.801,
+          6.313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3198032314",
+      "properties": {
+        "@id": "node/3198032314",
+        "accuracy": "British Red Cross - GPS",
+        "amenity": "hospital",
+        "capacity:beds": "100",
+        "capacity:beds:planned": "100",
+        "check_date": "2014-11-17T00:00:00",
+        "disease:ebola": "yes",
+        "health_facility:id": "ETU_LBR_018",
+        "health_facility:type": "field_hospital",
+        "is_in": "Wamba Town",
+        "is_in:county": "Montserrado",
+        "is_in:district": "Greater Monrovia",
+        "name": "Montserrado (ELWA 2) ETU",
+        "operational_status": "open",
+        "operator": "MoH/WHO",
+        "source": "UNMEER ; https://data.hdx.rwlabs.org/dataset/ebola-treatment-centers",
+        "start_date": "2014-11-16T00:00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.696,
+          6.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3198032315",
+      "properties": {
+        "@id": "node/3198032315",
+        "accuracy": "British Red Cross - GPS",
+        "amenity": "hospital",
+        "capacity:beds": "150",
+        "capacity:beds:planned": "100",
+        "check_date": "2014-11-17T00:00:00",
+        "disease:ebola": "yes",
+        "health_facility:id": "ETU_LBR_020",
+        "health_facility:type": "field_hospital",
+        "is_in": "Monrovia",
+        "is_in:county": "Montserrado",
+        "is_in:district": "Greater Monrovia",
+        "name": "Montserrado (Island Clinic) ETU",
+        "operational_status": "open",
+        "operator": "MoH/WHO/AU",
+        "source": "UNMEER ; https://data.hdx.rwlabs.org/dataset/ebola-treatment-centers",
+        "start_date": "2014-11-16T00:00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.787,
+          6.384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3198032316",
+      "properties": {
+        "@id": "node/3198032316",
+        "accuracy": "Needs Validation",
+        "amenity": "hospital",
+        "capacity:beds": "36",
+        "capacity:beds:planned": "36",
+        "check_date": "2014-11-16T00:00:00",
+        "disease:ebola": "yes",
+        "health_facility:id": "ETU_LBR_008",
+        "health_facility:type": "field_hospital",
+        "is_in": "Ganta",
+        "is_in:county": "Nimba",
+        "is_in:district": "Garr-Bain",
+        "name": "Nimba (Ganta) ETU",
+        "note": "Are their 2 (listed in Lbr dashboard & WHO xls)",
+        "operational_status": "open",
+        "operator": "NIMBA CHT/Methodist Church",
+        "source": "UNMEER ; https://data.hdx.rwlabs.org/dataset/ebola-treatment-centers",
+        "start_date": "2014-11-16T00:00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.981,
+          7.238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3273816218",
+      "properties": {
+        "@id": "node/3273816218",
+        "amenity": "hospital",
+        "capacity:beds": "50",
+        "name": "Greenville ETU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0606111,
+          5.0452778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3628712875",
+      "properties": {
+        "@id": "node/3628712875",
+        "addr:city": "Monrovia",
+        "addr:housenumber": "24th",
+        "addr:postcode": "1000",
+        "addr:street": "24th Street",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "JFK",
+        "operator": "Government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.7735039,
+          6.2869084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3708466720",
+      "properties": {
+        "@id": "node/3708466720",
+        "amenity": "hospital",
+        "name": "Slipway Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.7984028,
+          6.3160019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4098704152",
+      "properties": {
+        "@id": "node/4098704152",
+        "amenity": "clinic",
+        "name": "Konina Health Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5443963,
+          7.9636542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4100642419",
+      "properties": {
+        "@id": "node/4100642419",
+        "addr:city": "Sanniquellie",
+        "addr:state": "Nimba",
+        "addr:street": "Ganta-Sanniquellie Highway",
+        "amenity": "hospital",
+        "name": "GM Harley Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7165599,
+          7.3528607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4100642420",
+      "properties": {
+        "@id": "node/4100642420",
+        "addr:city": "Ganta",
+        "addr:street": "Ganta Main Street",
+        "amenity": "hospital",
+        "name": "Ganta United Methodist Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9896381,
+          7.2285056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4100642479",
+      "properties": {
+        "@id": "node/4100642479",
+        "addr:city": "Sanniquellie",
+        "addr:state": "Nimba",
+        "addr:street": "Ganta-Sanniquellie Highway",
+        "amenity": "clinic",
+        "name": "St Mary's Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7075033,
+          7.3576257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131212879",
+      "properties": {
+        "@id": "node/4131212879",
+        "addr:city": "Yekepa",
+        "amenity": "hospital",
+        "bed_count": "60",
+        "dispensing": "yes",
+        "doctors_num": "2",
+        "electricity": "generator",
+        "emergency": "yes",
+        "healthcare:speciality": "Doctor Valentine Sawyerr",
+        "is_in": "Yarmain",
+        "name": "Arcelormittal Hospital",
+        "nature_of_facility": "General Services",
+        "nurses_num": "6",
+        "opening_hours": "24/7",
+        "operator": "private_np",
+        "operator_name": "Arcelormittal Liberia",
+        "source": "red cross field survey",
+        "water_source": "piped"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5391235,
+          7.5755633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131212880",
+      "properties": {
+        "@id": "node/4131212880",
+        "addr:city": "Balahun",
+        "amenity": "clinic",
+        "doctors_num": "0",
+        "emergency": "yes",
+        "is_in": "Tahamba",
+        "name": "Balahun Faith Clinic",
+        "operator": "private_np",
+        "operator_name": "\"Officer In Charge\"",
+        "phone": "880416820",
+        "source": "red cross field survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.0669098,
+          8.3317622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131212881",
+      "properties": {
+        "@id": "node/4131212881",
+        "addr:city": "Bamballa",
+        "amenity": "clinic",
+        "bed_count": "4",
+        "dispensing": "yes",
+        "doctors_num": "0",
+        "electricity": "solar",
+        "emergency": "yes",
+        "is_in": "kposo",
+        "name": "Bamballa Community Clinic",
+        "nature_of_facility": "clean areas",
+        "nurses_num": "1",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "government",
+        "operator_name": "Ministry of Health",
+        "source": "red cross field survey",
+        "water_source": "pub_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.1724091,
+          7.2214808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131212882",
+      "properties": {
+        "@id": "node/4131212882",
+        "addr:city": "Bangorma",
+        "amenity": "clinic",
+        "bed_count": "7",
+        "dispensing": "yes",
+        "doctors_num": "0",
+        "electricity": "generator",
+        "emergency": "yes",
+        "healthcare:speciality": "Certified midwife and paritical nusa",
+        "is_in": "Mademasda Clan",
+        "name": "Bangorma Community Clinic",
+        "nurses_num": "2",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "government",
+        "operator_name": "Liberian government, Linda B Freeman",
+        "phone": "886363466",
+        "source": "red cross field survey",
+        "water_source": "pub_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.2124062,
+          7.0820692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131212883",
+      "properties": {
+        "@id": "node/4131212883",
+        "addr:city": "Barzawon",
+        "amenity": "clinic",
+        "bed_count": "1",
+        "electricity": "solar",
+        "is_in": "Zeayemai Clan",
+        "name": "Bazewen Clinic",
+        "nature_of_facility": "1",
+        "nurses_num": "3",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator_name": "IRC",
+        "source": "red cross field survey",
+        "water_source": "protected_well"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.6497319,
+          8.1550488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131212884",
+      "properties": {
+        "@id": "node/4131212884",
+        "addr:city": "Belefanai",
+        "amenity": "clinic",
+        "bed_count": "9",
+        "dispensing": "yes",
+        "electricity": "generator",
+        "emergency": "yes",
+        "is_in": "Central Zota",
+        "name": "Belefanai Clinic",
+        "nurses_num": "6",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "government",
+        "operator_name": "\"Officer In Charge\"",
+        "source": "red cross field survey",
+        "water_source": "piped"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4367757,
+          7.2637625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131212885",
+      "properties": {
+        "@id": "node/4131212885",
+        "addr:city": "Bellemue",
+        "amenity": "clinic",
+        "bed_count": "3",
+        "dispensing": "yes",
+        "electricity": "solar",
+        "name": "Bellemue Clinic",
+        "nature_of_facility": "Very good",
+        "nurses_num": "2",
+        "opening_hours": "24/7",
+        "operator": "government",
+        "operator_name": "\"Officer In Charge\"",
+        "phone": "886607648",
+        "source": "red cross field survey",
+        "water_source": "piped"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.2096329,
+          7.1974679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131212886",
+      "properties": {
+        "@id": "node/4131212886",
+        "amenity": "clinic",
+        "bed_count": "6",
+        "dispensing": "yes",
+        "doctors_num": "0",
+        "electricity": "solar",
+        "name": "Bo Waterside Community Clinic",
+        "nurses_num": "2",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "source": "red cross field survey",
+        "water_source": "pub_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.3729096,
+          7.0109419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131212887",
+      "properties": {
+        "@id": "node/4131212887",
+        "addr:city": "Town",
+        "amenity": "hospital",
+        "bed_count": "4",
+        "dispensing": "yes",
+        "doctors_num": "0",
+        "electricity": "generator",
+        "emergency": "yes",
+        "is_in": "Wanwoma Clan",
+        "name": "Bolahun Health Center",
+        "nature_of_facility": "health center facility",
+        "nurses_num": "2",
+        "opening_hours": "24/7",
+        "operator": "combination",
+        "operator_name": "PMU",
+        "phone": "880487542",
+        "source": "red cross field survey",
+        "water_source": "pub_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.1625681,
+          8.2284376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131212888",
+      "properties": {
+        "@id": "node/4131212888",
+        "amenity": "clinic",
+        "bed_count": "2",
+        "dispensing": "yes",
+        "electricity": "none",
+        "name": "Bong County Health Teamwork",
+        "nature_of_facility": "good condition",
+        "nurses_num": "1",
+        "opening_hours": "24/7",
+        "operator": "government",
+        "operator_name": "Bong County Health Teamwork",
+        "source": "red cross field survey",
+        "water_source": "piped"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.6157837,
+          7.2344234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217589",
+      "properties": {
+        "@id": "node/4131217589",
+        "addr:city": "Borkeza",
+        "amenity": "clinic",
+        "bed_count": "4",
+        "doctors_num": "1",
+        "healthcare:speciality": "Toto Massa/PICS",
+        "is_in": "Gezemai",
+        "name": "Borkeza Clinic",
+        "nature_of_facility": "White and green building with 6 room",
+        "nurses_num": "6",
+        "operator": "government",
+        "operator_name": "Liberian Government",
+        "source": "red cross field survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4585419,
+          7.903511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217590",
+      "properties": {
+        "@id": "node/4131217590",
+        "addr:city": "Boway",
+        "amenity": "clinic",
+        "bed_count": "2",
+        "dispensing": "yes",
+        "electricity": "none",
+        "healthcare:speciality": "Bon Health Care",
+        "is_in": "Panta Clan",
+        "name": "Boway Clinic",
+        "nature_of_facility": "Very good",
+        "nurses_num": "2",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "government",
+        "operator_name": "Bon Healthtane",
+        "phone": "886845165",
+        "source": "red cross field survey",
+        "water_source": "piped"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.142642,
+          7.1692863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217591",
+      "properties": {
+        "@id": "node/4131217591",
+        "addr:city": "Boway",
+        "amenity": "clinic",
+        "bed_count": "2",
+        "dispensing": "yes",
+        "electricity": "none",
+        "healthcare:speciality": "OIC",
+        "is_in": "Panta Clan",
+        "name": "Boway Clinic",
+        "nature_of_facility": "Very good",
+        "nurses_num": "2",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "government",
+        "operator_name": "Angeline Korso",
+        "phone": "886845165",
+        "source": "red cross field survey",
+        "water_source": "piped"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.140625,
+          7.1727725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217592",
+      "properties": {
+        "@id": "node/4131217592",
+        "addr:city": "Damballa",
+        "amenity": "hospital",
+        "bed_count": "14",
+        "dispensing": "yes",
+        "doctors_num": "0",
+        "electricity": "solar",
+        "emergency": "yes",
+        "healthcare:speciality": "physician assistant",
+        "is_in": "Samavula Clan",
+        "name": "Damballa Health Center",
+        "nature_of_facility": "Damballa Community",
+        "nurses_num": "11",
+        "opening_hours": "24/7",
+        "operator": "government",
+        "operator_name": "Liberian government, Mayumi T Yark",
+        "phone": "886922477",
+        "source": "red cross field survey",
+        "water_source": "pub_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.2817574,
+          7.1371747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217593",
+      "properties": {
+        "@id": "node/4131217593",
+        "addr:city": "Larmoth",
+        "amenity": "clinic",
+        "bed_count": "5",
+        "dispensing": "yes",
+        "doctors_num": "0",
+        "electricity": "solar",
+        "emergency": "yes",
+        "healthcare:speciality": "OIC",
+        "is_in": "Palama Clan",
+        "name": "David F.Congor Jr.",
+        "nature_of_facility": "Mut to cement with zine",
+        "nurses_num": "9",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "government",
+        "operator_name": "Ma_Musu",
+        "source": "red cross field survey",
+        "traditional_num": "1",
+        "water_source": "protected_well"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4935608,
+          7.3788102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217594",
+      "properties": {
+        "@id": "node/4131217594",
+        "addr:city": "Jana-Wende",
+        "amenity": "clinic",
+        "bed_count": "6",
+        "dispensing": "yes",
+        "doctors_num": "0",
+        "electricity": "solar",
+        "emergency": "yes",
+        "healthcare:speciality": "Liberia Government Clinic",
+        "is_in": "Meimassa Clan",
+        "name": "David O Kerkula",
+        "nature_of_facility": "Jana Wende Community",
+        "nurses_num": "2",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "government",
+        "operator_name": "Liberian Government",
+        "phone": "880449843",
+        "source": "red cross field survey",
+        "water_source": "pub_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.2691402,
+          7.0762772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217595",
+      "properties": {
+        "@id": "node/4131217595",
+        "addr:city": "Diah",
+        "amenity": "clinic",
+        "bed_count": "6",
+        "doctors_num": "0",
+        "electricity": "solar",
+        "emergency": "yes",
+        "healthcare:speciality": "Generalized",
+        "is_in": "Fahnbulleh Clan",
+        "name": "Diah Clinics",
+        "nature_of_facility": "Blue,White Paint by",
+        "nurses_num": "2",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "government",
+        "operator_name": "Odell Kpenneh",
+        "phone": "888559786",
+        "source": "red cross field survey",
+        "water_source": "hand_pump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.3492632,
+          6.8774638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217597",
+      "properties": {
+        "@id": "node/4131217597",
+        "addr:city": "Gbonyea",
+        "amenity": "clinic",
+        "bed_count": "5",
+        "dispensing": "yes",
+        "doctors_num": "0",
+        "electricity": "solar",
+        "emergency": "yes",
+        "healthcare:speciality": "OIC",
+        "is_in": "Gbalin Clan",
+        "name": "Esther Y.Barkolleh",
+        "nature_of_facility": "Must to cement with zinc",
+        "nurses_num": "7",
+        "opening_hours": "Mo-Fr 08:00-17:00, Sa, Su",
+        "operator": "ngo",
+        "operator_name": "Ray Zei",
+        "phone": "777338760",
+        "source": "red cross field survey",
+        "traditional_num": "8",
+        "water_source": "tubewell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5539856,
+          7.5047696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217598",
+      "properties": {
+        "@id": "node/4131217598",
+        "addr:city": "Fahnja",
+        "amenity": "clinic",
+        "bed_count": "2",
+        "dispensing": "yes",
+        "electricity": "solar",
+        "emergency": "yes",
+        "healthcare:speciality": "medical help",
+        "is_in": "Fahnbulleh Clan",
+        "name": "Fahnja Community Clinic",
+        "nature_of_facility": "Help to cure patients",
+        "nurses_num": "2",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "operator": "government",
+        "operator_name": "Ministry of Health",
+        "phone": "886813584",
+        "source": "red cross field survey",
+        "water_source": "pub_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.261673,
+          7.0157124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217599",
+      "properties": {
+        "@id": "node/4131217599",
+        "addr:city": "Fahnja",
+        "amenity": "clinic",
+        "bed_count": "2",
+        "dispensing": "yes",
+        "electricity": "solar",
+        "healthcare:speciality": "medical treatment",
+        "is_in": "Fahnbulleh Clan",
+        "name": "Fahnja Community Clinic",
+        "nature_of_facility": "Help to cure patients",
+        "nurses_num": "2",
+        "operator": "government",
+        "operator_name": "Yvonne Ballayan",
+        "phone": "886813584",
+        "source": "red cross field survey",
+        "water_source": "tubewell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.2623596,
+          7.0157124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217600",
+      "properties": {
+        "@id": "node/4131217600",
+        "addr:city": "Town",
+        "amenity": "clinic",
+        "bed_count": "4",
+        "doctors_num": "0",
+        "electricity": "solar",
+        "emergency": "yes",
+        "is_in": "Wanwoma Clan",
+        "name": "Fangonda Clinic",
+        "nature_of_facility": "irc",
+        "nurses_num": "0",
+        "opening_hours": "Mo-Fr 08:00-17:00, Sa, Su",
+        "operator": "combination",
+        "operator_name": "IRC",
+        "phone": "886101390",
+        "source": "red cross field survey",
+        "water_source": "pub_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.1734579,
+          8.221525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217601",
+      "properties": {
+        "@id": "node/4131217601",
+        "addr:city": "Fatuk Robert",
+        "amenity": "clinic",
+        "bed_count": "4",
+        "dispensing": "yes",
+        "doctors_num": "0",
+        "electricity": "solar",
+        "emergency": "yes",
+        "healthcare:speciality": "nurse,midwife",
+        "is_in": "Lower Workor",
+        "name": "Fatuk Robert",
+        "nature_of_facility": "clinic",
+        "nurses_num": "9",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "government",
+        "operator_name": "Ministry of Health",
+        "phone": "776909345",
+        "source": "red cross field survey",
+        "traditional_num": "3",
+        "water_source": "piped"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.7483063,
+          8.4207533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217603",
+      "properties": {
+        "@id": "node/4131217603",
+        "addr:city": "Foya Tengia",
+        "amenity": "clinic",
+        "bed_count": "7",
+        "dispensing": "yes",
+        "electricity": "solar",
+        "emergency": "yes",
+        "is_in": "Tengia Clan",
+        "name": "Foya Tengia Clinic",
+        "nature_of_facility": "5",
+        "nurses_num": "0",
+        "opening_hours": "24/7",
+        "operator": "combination",
+        "operator_name": "PMU",
+        "phone": "775589793",
+        "source": "red cross field survey",
+        "water_source": "pub_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.2790833,
+          8.2760476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217604",
+      "properties": {
+        "@id": "node/4131217604",
+        "addr:city": "Sanniquellie",
+        "amenity": "clinic",
+        "bed_count": "150",
+        "dispensing": "yes",
+        "doctors_num": "3",
+        "electricity": "generator",
+        "emergency": "yes",
+        "healthcare:speciality": "Doctor",
+        "is_in": "Sehyi Clan",
+        "name": "GW Harley Hospital Dr",
+        "nature_of_facility": "good condition",
+        "nurses_num": "32",
+        "opening_hours": "24/7",
+        "operator": "government",
+        "operator_name": "Liberian Government",
+        "phone": "775824782",
+        "source": "red cross field survey",
+        "water_source": "piped"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7143909,
+          7.3572853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217605",
+      "properties": {
+        "@id": "node/4131217605",
+        "addr:city": "Gahnmue",
+        "amenity": "clinic",
+        "bed_count": "4",
+        "dispensing": "yes",
+        "doctors_num": "1",
+        "electricity": "generator",
+        "emergency": "yes",
+        "healthcare:speciality": "OIC",
+        "is_in": "Gahnmue Clan",
+        "name": "Gahnmue Clinic",
+        "nature_of_facility": "Very good",
+        "nurses_num": "2",
+        "opening_hours": "24/7",
+        "operator": "government",
+        "operator_name": "Africare",
+        "phone": "0886898207/0775244813",
+        "source": "red cross field survey",
+        "water_source": "piped"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1661261,
+          7.2334934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217606",
+      "properties": {
+        "@id": "node/4131217606",
+        "addr:city": "Ganta",
+        "amenity": "clinic",
+        "bed_count": "4",
+        "dispensing": "yes",
+        "electricity": "generator",
+        "emergency": "no",
+        "healthcare:speciality": "Says Glaymine Oic",
+        "is_in": "Plan",
+        "name": "Ganta Community Clinic",
+        "nature_of_facility": "good condition",
+        "nurses_num": "6",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "government",
+        "operator_name": "Says Glaymine",
+        "phone": "777700133",
+        "source": "red cross field survey",
+        "water_source": "piped"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0039825,
+          7.225568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217607",
+      "properties": {
+        "@id": "node/4131217607",
+        "addr:city": "Ganta",
+        "amenity": "hospital",
+        "bed_count": "35",
+        "dispensing": "yes",
+        "doctors_num": "5",
+        "electricity": "generator",
+        "emergency": "yes",
+        "is_in": "Being Garr",
+        "name": "Ganta Hospital",
+        "nature_of_facility": "Tapita Hospital",
+        "nurses_num": "15",
+        "opening_hours": "24/7",
+        "operator": "private_profit",
+        "phone": "886469923",
+        "source": "red cross field survey",
+        "water_source": "protected_spring"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9780939,
+          7.2352483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217608",
+      "properties": {
+        "@id": "node/4131217608",
+        "addr:city": "Gbalatuah",
+        "amenity": "clinic",
+        "bed_count": "5",
+        "dispensing": "yes",
+        "electricity": "generator",
+        "emergency": "yes",
+        "is_in": "Gbalatuah Township",
+        "name": "Gbalatuah Clinic",
+        "nurses_num": "3",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "government",
+        "operator_name": "\"Officer In Charge\"",
+        "source": "red cross field survey",
+        "water_source": "piped"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5113136,
+          7.3097474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217609",
+      "properties": {
+        "@id": "node/4131217609",
+        "addr:city": "Gbalatuah",
+        "amenity": "clinic",
+        "bed_count": "2",
+        "dispensing": "yes",
+        "electricity": "solar",
+        "emergency": "yes",
+        "healthcare:speciality": "nurses",
+        "is_in": "Zota",
+        "name": "Gbalatuah Clinic",
+        "nature_of_facility": "good condition",
+        "nurses_num": "5",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "government",
+        "operator_name": "Ministry of Health",
+        "source": "red cross field survey",
+        "water_source": "piped"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5117569,
+          7.3113901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217610",
+      "properties": {
+        "@id": "node/4131217610",
+        "addr:city": "Gbegbe",
+        "amenity": "clinic",
+        "bed_count": "0",
+        "dispensing": "no",
+        "doctors_num": "0",
+        "electricity": "none",
+        "emergency": "no",
+        "is_in": "Womamai Clan",
+        "name": "Gbegbe Self-Initiative Clinic",
+        "nature_of_facility": "Not functioning now",
+        "nurses_num": "0",
+        "opening_hours": "\"by appointment\"",
+        "operator": "private_np",
+        "operator_name": "Gbegbe Town People",
+        "source": "red cross field survey",
+        "traditional_num": "4",
+        "water_source": "surface_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.6617889,
+          8.4058096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217611",
+      "properties": {
+        "@id": "node/4131217611",
+        "addr:city": "Town",
+        "amenity": "clinic",
+        "bed_count": "6",
+        "dispensing": "yes",
+        "electricity": "solar",
+        "emergency": "yes",
+        "is_in": "Korma Clan",
+        "name": "Gondama Community Clinic",
+        "nature_of_facility": "medication",
+        "nurses_num": "2",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "operator": "government",
+        "operator_name": "Ministry of Health",
+        "phone": "886318231",
+        "source": "red cross field survey",
+        "water_source": "tubewell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.3557434,
+          7.0586452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217612",
+      "properties": {
+        "@id": "node/4131217612",
+        "addr:city": "Gonelor",
+        "amenity": "clinic",
+        "bed_count": "5",
+        "dispensing": "yes",
+        "doctors_num": "0",
+        "electricity": "solar",
+        "emergency": "yes",
+        "healthcare:speciality": "No healthcare specialist",
+        "is_in": "Meiamassa",
+        "name": "Gonelor Community Clinic",
+        "nature_of_facility": "Free service provider",
+        "nurses_num": "2",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "operator": "government",
+        "operator_name": "Ministry of Health",
+        "phone": "886316390",
+        "source": "red cross field survey",
+        "water_source": "pump_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.2568665,
+          7.0382015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217614",
+      "properties": {
+        "@id": "node/4131217614",
+        "addr:city": "Jana-Wende",
+        "amenity": "clinic",
+        "bed_count": "5",
+        "dispensing": "yes",
+        "doctors_num": "0",
+        "electricity": "solar",
+        "emergency": "yes",
+        "is_in": "Meimassa Clan",
+        "name": "Jana-Wende Town Clinic",
+        "nature_of_facility": "Liberian Government clinic",
+        "nurses_num": "2",
+        "opening_hours": "Mo-Fr 08:00-16:00, Sa, Su",
+        "operator": "government",
+        "operator_name": "Liberian Government",
+        "phone": "880449864",
+        "source": "red cross field survey",
+        "water_source": "pub_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.2690544,
+          7.0763624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217615",
+      "properties": {
+        "@id": "node/4131217615",
+        "addr:city": "Jorwah",
+        "amenity": "clinic",
+        "bed_count": "8",
+        "dispensing": "yes",
+        "electricity": "generator",
+        "emergency": "yes",
+        "is_in": "Wrunah",
+        "name": "Jorwah Clinic",
+        "nurses_num": "10",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "government",
+        "operator_name": "Mr. Matthew Labah",
+        "source": "red cross field survey",
+        "water_source": "protected_well"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.218587,
+          7.3781486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217617",
+      "properties": {
+        "@id": "node/4131217617",
+        "addr:city": "Woizi",
+        "amenity": "clinic",
+        "bed_count": "2",
+        "doctors_num": "0",
+        "electricity": "none",
+        "healthcare:speciality": "Joseph M.Pewee",
+        "is_in": "Zeyeamai",
+        "name": "Joseph M. Pewee",
+        "nature_of_facility": "Three room with one poach",
+        "nurses_num": "0",
+        "opening_hours": "\"by appointment\"",
+        "operator": "community_facility",
+        "operator_name": "Joseph M.Pewee",
+        "source": "red cross field survey",
+        "water_source": "hand_pump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5546722,
+          7.8320919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217618",
+      "properties": {
+        "@id": "node/4131217618",
+        "addr:city": "Ganglota",
+        "amenity": "clinic",
+        "bed_count": "8",
+        "dispensing": "yes",
+        "doctors_num": "0",
+        "electricity": "solar",
+        "emergency": "yes",
+        "healthcare:speciality": "OIC",
+        "is_in": "Palama Clan",
+        "name": "Joseph T.Morris",
+        "nature_of_facility": "Mut to cement with zine",
+        "nurses_num": "7",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "government",
+        "operator_name": "Musu Koikoi",
+        "source": "red cross field survey",
+        "water_source": "protected_well"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4928741,
+          7.4230703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217621",
+      "properties": {
+        "@id": "node/4131217621",
+        "addr:city": "Kamatahun",
+        "amenity": "clinic",
+        "bed_count": "8",
+        "dispensing": "yes",
+        "doctors_num": "0",
+        "electricity": "generator",
+        "emergency": "yes",
+        "is_in": "Lower Hassala Clan",
+        "name": "Kamatahun Health Center.",
+        "nature_of_facility": "Permanent",
+        "nurses_num": "2",
+        "opening_hours": "Mo-Fr 08:00-17:00, Sa, Su",
+        "operator": "ngo",
+        "operator_name": "Mr. Kollie",
+        "source": "red cross field survey",
+        "water_source": "pub_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.2961421,
+          8.1363656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217623",
+      "properties": {
+        "@id": "node/4131217623",
+        "addr:city": "Kiantahun",
+        "amenity": "clinic",
+        "bed_count": "2",
+        "dispensing": "yes",
+        "doctors_num": "0",
+        "electricity": "solar",
+        "emergency": "yes",
+        "is_in": "Hassala Clan",
+        "name": "Kiantahun Clinic",
+        "nature_of_facility": "clinic",
+        "nurses_num": "6",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "ngo",
+        "operator_name": "PMU",
+        "phone": "886934703",
+        "source": "red cross field survey",
+        "water_source": "pub_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.2175856,
+          8.164085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217625",
+      "properties": {
+        "@id": "node/4131217625",
+        "addr:city": "Korworhun",
+        "amenity": "clinic",
+        "bed_count": "3",
+        "dispensing": "yes",
+        "doctors_num": "0",
+        "electricity": "solar",
+        "emergency": "yes",
+        "is_in": "Tahamba",
+        "name": "Korworhun Clinic",
+        "nature_of_facility": "government clinic",
+        "nurses_num": "2",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "government",
+        "operator_name": "\"Officer In Charge\"",
+        "phone": "776331090",
+        "source": "red cross field survey",
+        "water_source": "piped"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.1506805,
+          8.3154563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217626",
+      "properties": {
+        "@id": "node/4131217626",
+        "addr:city": "Kpaiyea",
+        "amenity": "clinic",
+        "bed_count": "5",
+        "dispensing": "yes",
+        "electricity": "solar",
+        "emergency": "yes",
+        "is_in": "Vavala Clan",
+        "name": "Kpaiyea Clinic",
+        "nurses_num": "5",
+        "operator": "ngo",
+        "operator_name": "IRC",
+        "phone": "770456678",
+        "source": "red cross field survey",
+        "water_source": "rain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3857574,
+          7.7157547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217627",
+      "properties": {
+        "@id": "node/4131217627",
+        "addr:city": "Kpaiyea",
+        "amenity": "clinic",
+        "bed_count": "5",
+        "dispensing": "yes",
+        "electricity": "solar",
+        "emergency": "yes",
+        "is_in": "Vavala Clan",
+        "name": "Kpaiyea Clinic",
+        "nature_of_facility": "In General",
+        "nurses_num": "5",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "ngo",
+        "operator_name": "IRC",
+        "source": "red cross field survey",
+        "water_source": "surface_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3843842,
+          7.7164351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217630",
+      "properties": {
+        "@id": "node/4131217630",
+        "addr:city": "Kumgbor",
+        "amenity": "clinic",
+        "bed_count": "6",
+        "dispensing": "yes",
+        "electricity": "solar",
+        "emergency": "yes",
+        "healthcare:speciality": "general practice",
+        "is_in": "Tonglay",
+        "name": "Kumgbor",
+        "nurses_num": "3",
+        "opening_hours": "Mo-Fr",
+        "operator": "government",
+        "operator_name": "Ministry of Health",
+        "phone": "886418882",
+        "source": "red cross field survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.5688477,
+          7.6443036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217631",
+      "properties": {
+        "@id": "node/4131217631",
+        "addr:city": "Lemgbaga",
+        "amenity": "clinic",
+        "bed_count": "8",
+        "dispensing": "yes",
+        "doctors_num": "0",
+        "electricity": "solar",
+        "emergency": "yes",
+        "is_in": "Tengia Clan",
+        "name": "Lemgbagba Health Center",
+        "nature_of_facility": "Permanent",
+        "nurses_num": "8",
+        "opening_hours": "Mo-Fr 08:00-17:00, Sa, Su",
+        "operator": "ngo",
+        "source": "red cross field survey",
+        "water_source": "unprotected_spring"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.329895,
+          8.1537196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217633",
+      "properties": {
+        "@id": "node/4131217633",
+        "addr:city": "Loleyah Kollie",
+        "amenity": "clinic",
+        "bed_count": "3",
+        "dispensing": "yes",
+        "doctors_num": "0",
+        "electricity": "solar",
+        "emergency": "yes",
+        "is_in": "upworldcup clan",
+        "name": "Loleyah Kollie",
+        "nature_of_facility": "clinic",
+        "nurses_num": "1",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "ngo",
+        "operator_name": "PMU",
+        "phone": "7707177343",
+        "source": "red cross field survey",
+        "water_source": "piped"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.747566,
+          8.4207957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217634",
+      "properties": {
+        "@id": "node/4131217634",
+        "addr:city": "Lugbleh",
+        "amenity": "clinic",
+        "bed_count": "8",
+        "dispensing": "yes",
+        "electricity": "none",
+        "healthcare:speciality": "George Woyee",
+        "is_in": "Yarmine",
+        "name": "Lugbleh Community Clinic",
+        "nature_of_facility": "General Services",
+        "nurses_num": "2",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "ngo",
+        "operator_name": "George Woyee",
+        "phone": "770321323",
+        "source": "red cross field survey",
+        "water_source": "protected_spring"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6200271,
+          7.6067255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217635",
+      "properties": {
+        "@id": "node/4131217635",
+        "addr:city": "Town",
+        "amenity": "clinic",
+        "bed_count": "5",
+        "dispensing": "yes",
+        "doctors_num": "2",
+        "electricity": "solar",
+        "emergency": "yes",
+        "name": "M",
+        "nurses_num": "3",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "government",
+        "operator_name": "John",
+        "source": "red cross field survey",
+        "traditional_num": "3",
+        "water_source": "piped"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.7503662,
+          8.4193948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217637",
+      "properties": {
+        "@id": "node/4131217637",
+        "addr:city": "Town",
+        "amenity": "clinic",
+        "bed_count": "4",
+        "dispensing": "yes",
+        "electricity": "solar",
+        "emergency": "yes",
+        "healthcare:speciality": "medication",
+        "is_in": "Paasewe Clan",
+        "name": "Mambo Community Clinic",
+        "nature_of_facility": "Help to hell",
+        "nurses_num": "2",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "operator": "government",
+        "operator_name": "Antee Nagbe",
+        "source": "red cross field survey",
+        "water_source": "tubewell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.294632,
+          7.0000376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217638",
+      "properties": {
+        "@id": "node/4131217638",
+        "addr:city": "Mbalotahun",
+        "amenity": "clinic",
+        "bed_count": "5",
+        "dispensing": "yes",
+        "doctors_num": "0",
+        "electricity": "solar",
+        "emergency": "yes",
+        "is_in": "Wanwoma Clan",
+        "name": "Mbalotahun Clinic",
+        "nature_of_facility": "Liberian government jhpeigo",
+        "nurses_num": "2",
+        "opening_hours": "24/7",
+        "operator": "government",
+        "operator_name": "Liberian Government",
+        "phone": "0886401838/0775989372",
+        "source": "red cross field survey",
+        "water_source": "pub_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.1541567,
+          8.2209622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217641",
+      "properties": {
+        "@id": "node/4131217641",
+        "addr:city": "Naama",
+        "amenity": "clinic",
+        "bed_count": "1",
+        "dispensing": "yes",
+        "electricity": "solar",
+        "healthcare:speciality": "Malaria, diarrhea, stidisease",
+        "is_in": "Zota",
+        "name": "Naama Clinic",
+        "nature_of_facility": "naama",
+        "nurses_num": "9",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator_name": "Kwita M Kollie",
+        "phone": "880667831",
+        "source": "red cross field survey",
+        "water_source": "protected_spring"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3521118,
+          7.2575829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217643",
+      "properties": {
+        "@id": "node/4131217643",
+        "addr:city": "Popalahun",
+        "amenity": "clinic",
+        "bed_count": "3",
+        "dispensing": "yes",
+        "doctors_num": "0",
+        "electricity": "none",
+        "emergency": "yes",
+        "is_in": "Hassala Clan",
+        "name": "Popalahun Clinic",
+        "nature_of_facility": "nurses",
+        "nurses_num": "2",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "combination",
+        "operator_name": "Drives Ndebeh",
+        "phone": "880314270",
+        "source": "red cross field survey",
+        "water_source": "pub_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.232091,
+          8.1757457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217645",
+      "properties": {
+        "@id": "node/4131217645",
+        "addr:city": "Salayea",
+        "amenity": "clinic",
+        "bed_count": "8",
+        "dispensing": "yes",
+        "doctors_num": "0",
+        "electricity": "solar",
+        "emergency": "yes",
+        "healthcare:speciality": "general practice",
+        "is_in": "Palama Clan",
+        "name": "Salayea Clinic",
+        "nature_of_facility": "MUd To Cement Zine TT,",
+        "nurses_num": "11",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "government",
+        "operator_name": "Ministry of Health",
+        "source": "red cross field survey",
+        "water_source": "protected_well"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4916993,
+          7.6191281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217647",
+      "properties": {
+        "@id": "node/4131217647",
+        "addr:city": "Sarkonedu",
+        "amenity": "clinic",
+        "bed_count": "1",
+        "dispensing": "yes",
+        "doctors_num": "0",
+        "electricity": "solar",
+        "emergency": "yes",
+        "healthcare:speciality": "family planning",
+        "is_in": "Quardubonai",
+        "name": "Sarkonedu Clinic",
+        "nature_of_facility": "clinic",
+        "nurses_num": "2",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "government",
+        "operator_name": "Ministry of Health",
+        "source": "red cross field survey",
+        "water_source": "protected_well"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.6733654,
+          8.4617285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217648",
+      "properties": {
+        "@id": "node/4131217648",
+        "addr:city": "Shankpallai",
+        "amenity": "clinic",
+        "dispensing": "yes",
+        "electricity": "generator",
+        "name": "Shankpallai Clinic",
+        "nurses_num": "7",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "government",
+        "operator_name": "\"Officer In Charge\"",
+        "source": "red cross field survey",
+        "water_source": "piped"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3353169,
+          7.3712253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217649",
+      "properties": {
+        "@id": "node/4131217649",
+        "addr:city": "Sanniquellie",
+        "amenity": "clinic",
+        "bed_count": "0",
+        "dispensing": "yes",
+        "doctors_num": "0",
+        "electricity": "generator",
+        "healthcare:speciality": "nurses",
+        "is_in": "Sehyi Clan",
+        "name": "St. Mary's Clinic",
+        "nature_of_facility": "Good in condition",
+        "nurses_num": "20",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator_name": "Catholic Church",
+        "phone": "777847294",
+        "source": "red cross field survey",
+        "water_source": "piped"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7046694,
+          7.3646122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217650",
+      "properties": {
+        "@id": "node/4131217650",
+        "addr:city": "Tienne",
+        "amenity": "clinic",
+        "bed_count": "2",
+        "dispensing": "yes",
+        "doctors_num": "0",
+        "electricity": "solar",
+        "emergency": "yes",
+        "healthcare:speciality": "general practice",
+        "is_in": "Fahnbulleh",
+        "name": "Tenni Community Clinic",
+        "nurses_num": "3",
+        "operator": "government",
+        "operator_name": "Liberian Government",
+        "phone": "886265890",
+        "source": "red cross field survey",
+        "traditional_num": "13",
+        "water_source": "pub_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.3099635,
+          6.9680899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217651",
+      "properties": {
+        "@id": "node/4131217651",
+        "addr:city": "Ray Hill Village",
+        "amenity": "clinic",
+        "bed_count": "5",
+        "dispensing": "yes",
+        "doctors_num": "0",
+        "electricity": "none",
+        "emergency": "yes",
+        "healthcare:speciality": "OIC",
+        "is_in": "Palama",
+        "name": "Thomas Sloan",
+        "nature_of_facility": "Mut to cement with zine",
+        "nurses_num": "0",
+        "opening_hours": "Mo-Fr 08:00-17:00, Sa, Su",
+        "operator": "government",
+        "operator_name": "David Kerkulah",
+        "source": "red cross field survey",
+        "traditional_num": "3",
+        "water_source": "protected_well"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4997406,
+          7.3617859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217652",
+      "properties": {
+        "@id": "node/4131217652",
+        "addr:city": "Tienne",
+        "amenity": "clinic",
+        "bed_count": "5",
+        "dispensing": "yes",
+        "doctors_num": "0",
+        "electricity": "solar",
+        "healthcare:speciality": "Registered Nurse, Certified Midwife",
+        "is_in": "Farbullah",
+        "name": "Tienee Community Clinic",
+        "nature_of_facility": "Liberian government Clinic",
+        "nurses_num": "2",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "government",
+        "operator_name": "Liberian Government",
+        "phone": "886929165",
+        "source": "red cross field survey",
+        "water_source": "pub_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.309824,
+          6.9682603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217654",
+      "properties": {
+        "@id": "node/4131217654",
+        "addr:city": "Town",
+        "amenity": "clinic",
+        "bed_count": "7",
+        "dispensing": "yes",
+        "electricity": "none",
+        "emergency": "yes",
+        "healthcare:speciality": "A.N.C",
+        "name": "Tunukpuyee Community Clinic",
+        "nature_of_facility": "clinic",
+        "nurses_num": "1",
+        "opening_hours": "Mo-Fr 08:00-17:00, Sa, Su",
+        "operator": "government",
+        "operator_name": "Emmanuel S Marteahn",
+        "phone": "776813710",
+        "source": "red cross field survey",
+        "traditional_num": "3",
+        "water_source": "unprotected_well"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9923096,
+          7.0736367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217655",
+      "properties": {
+        "@id": "node/4131217655",
+        "addr:city": "Vahun",
+        "amenity": "clinic",
+        "bed_count": "18",
+        "dispensing": "yes",
+        "doctors_num": "0",
+        "electricity": "generator",
+        "emergency": "yes",
+        "is_in": "Central Guma Clan",
+        "name": "Vahun Health Center",
+        "nature_of_facility": "Permanent",
+        "nurses_num": "8",
+        "opening_hours": "Mo-Fr 08:00-17:00, Sa, Su",
+        "operator": "ngo",
+        "operator_name": "Mr. Kanneh",
+        "phone": "886908156",
+        "source": "red cross field survey",
+        "water_source": "pub_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.4996038,
+          8.0623527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217657",
+      "properties": {
+        "@id": "node/4131217657",
+        "addr:city": "Worsonga",
+        "amenity": "clinic",
+        "bed_count": "3",
+        "doctors_num": "0",
+        "electricity": "solar",
+        "emergency": "no",
+        "is_in": "Tengia",
+        "name": "Worsonga Clinic",
+        "nature_of_facility": "One structure building prengent waiting under construction.",
+        "nurses_num": "2",
+        "opening_hours": "24/7",
+        "operator": "government",
+        "operator_name": "Government facility",
+        "phone": "886872293",
+        "source": "red cross field survey",
+        "water_source": "protected_well"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.2832031,
+          8.3616546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217658",
+      "properties": {
+        "@id": "node/4131217658",
+        "addr:city": "Nyandemoilahun",
+        "amenity": "clinic",
+        "bed_count": "7",
+        "dispensing": "yes",
+        "doctors_num": "0",
+        "electricity": "solar",
+        "emergency": "yes",
+        "is_in": "Wulukoham",
+        "name": "Wulukoham Clinic",
+        "nature_of_facility": "government clinic",
+        "nurses_num": "2",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "government",
+        "operator_name": "\"Officer In Charge\"",
+        "phone": "776170352",
+        "source": "red cross field survey",
+        "water_source": "protected_well"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.9601056,
+          8.4419438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217661",
+      "properties": {
+        "@id": "node/4131217661",
+        "addr:city": "Yarpuah",
+        "amenity": "clinic",
+        "bed_count": "10",
+        "dispensing": "yes",
+        "doctors_num": "1",
+        "electricity": "solar",
+        "emergency": "yes",
+        "healthcare:speciality": "Malaral",
+        "is_in": "Vavala",
+        "name": "Yarpuah Clinic",
+        "nature_of_facility": "Angesic",
+        "nurses_num": "9",
+        "operator": "ngo",
+        "operator_name": "\"International Rescue Committee\"",
+        "phone": "888152120",
+        "source": "red cross field survey",
+        "traditional_num": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4226271,
+          7.6550354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217662",
+      "properties": {
+        "@id": "node/4131217662",
+        "addr:city": "Yarpuah",
+        "amenity": "clinic",
+        "bed_count": "5",
+        "dispensing": "no",
+        "doctors_num": "1",
+        "electricity": "solar",
+        "emergency": "yes",
+        "is_in": "Vavala",
+        "name": "Yarpuah Clinic",
+        "nature_of_facility": "Die Back Cement with Zinc",
+        "nurses_num": "9",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "ngo",
+        "operator_name": "\"Mr. Hanny Morwolo\"",
+        "phone": "888152120",
+        "source": "red cross field survey",
+        "water_source": "protected_well"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4229811,
+          7.6551045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217664",
+      "properties": {
+        "@id": "node/4131217664",
+        "addr:city": "Yegbedu",
+        "amenity": "clinic",
+        "bed_count": "2",
+        "dispensing": "yes",
+        "doctors_num": "0",
+        "electricity": "solar",
+        "emergency": "yes",
+        "is_in": "Lower Rankollie",
+        "name": "Yegbedu Community Clinic",
+        "nature_of_facility": "pmu",
+        "nurses_num": "1",
+        "opening_hours": "24/7",
+        "operator": "combination",
+        "operator_name": "PMU",
+        "phone": "776188764",
+        "source": "red cross field survey",
+        "water_source": "pub_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.2246666,
+          8.2339167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217665",
+      "properties": {
+        "@id": "node/4131217665",
+        "addr:city": "Yekepa",
+        "amenity": "clinic",
+        "bed_count": "3",
+        "dispensing": "yes",
+        "electricity": "solar",
+        "emergency": "yes",
+        "healthcare:speciality": "Tawoda Flomo",
+        "is_in": "Yarmain",
+        "name": "Yekepa YMCA Clinic",
+        "nature_of_facility": "General Services",
+        "nurses_num": "2",
+        "opening_hours": "Mo-Fr 08:00-17:00, Sa, Su",
+        "operator_name": "\"YMCA\"",
+        "phone": "770058034",
+        "source": "red cross field survey",
+        "water_source": "pub_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5439301,
+          7.5748826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217677",
+      "properties": {
+        "@id": "node/4131217677",
+        "amenity": "clinic",
+        "bed_count": "5",
+        "dispensing": "yes",
+        "doctors_num": "Not Available",
+        "electricity": "solar",
+        "emergency": "yes",
+        "healthcare:speciality": "general",
+        "nature_of_facility": "Mud to cement with zinc",
+        "nurses_num": "9",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "government",
+        "source": "red cross field survey",
+        "water_source": "protected_well"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4935608,
+          7.6150393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4131217681",
+      "properties": {
+        "@id": "node/4131217681",
+        "amenity": "clinic",
+        "bed_count": "2",
+        "dispensing": "yes",
+        "electricity": "solar",
+        "nature_of_facility": "government clinic",
+        "nurses_num": "2",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "government",
+        "source": "red cross field survey",
+        "water_source": "piped"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.0662231,
+          8.3895068
+        ]
+      }
+    }
+  ]
+}
